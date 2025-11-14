@@ -1,8 +1,7 @@
 /*
 =========================================================
-   FILE: where_between.sql
    DESKRIPSI:
-   Contoh lengkap penggunaan WHERE dan BETWEEN
+   Contoh penggunaan WHERE dan BETWEEN
    untuk database db_toko_makanan
 =========================================================
 */
