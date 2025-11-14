@@ -2,7 +2,9 @@
 =====================================================
    Nama : Maryam
    NIM   : D0224038
-   Kelas : D informatika 
+   Kelas : D informatika
+   Tugasnya membuat minimal 3 table dan lakukan insert sebanyak 
+   15 kali di masing-masing tabel
 =====================================================
 */
 
